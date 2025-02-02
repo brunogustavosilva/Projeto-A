@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { gsap } from 'gsap'; // Importando o GSAP
 import { EffectSectionContainer, VideoContainer, TextContainer } from '../../assets/styles/effectsection';
-import lights from '../../assets/lights.mp4'; // Exemplo de vídeo
+import lights from '../../assets/Super.mp4'; // Exemplo de vídeo
 import wand from '../../assets/wand.png';
 
 function EffectSection() {
